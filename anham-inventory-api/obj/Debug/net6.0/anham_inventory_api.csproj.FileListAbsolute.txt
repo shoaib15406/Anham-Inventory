@@ -1,0 +1,269 @@
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.csproj.AssemblyReference.cache
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.AssemblyInfoInputs.cache
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.AssemblyInfo.cs
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.csproj.CoreCompileInputs.cache
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.MvcApplicationPartsAssemblyInfo.cs
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.MvcApplicationPartsAssemblyInfo.cache
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.sourcelink.json
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\appsettings.Development.json
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\appsettings.json
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\anham_inventory_api.exe
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\anham_inventory_api.deps.json
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\anham_inventory_api.runtimeconfig.json
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\anham_inventory_api.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\anham_inventory_api.pdb
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Humanizer.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\staticwebassets.build.json
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\staticwebassets.development.json
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\staticwebassets\msbuild.anham_inventory_api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\staticwebassets\msbuild.build.anham_inventory_api.props
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.anham_inventory_api.props
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.anham_inventory_api.props
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\scopedcss\bundle\anham_inventory_api.styles.css
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\anham_in.E091C2B2.Up2Date
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\refint\anham_inventory_api.dll
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.pdb
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.genruntimeconfig.cache
+D:\Junaid Ahmad\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\ref\anham_inventory_api.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\appsettings.json
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\anham_inventory_api.exe
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\anham_inventory_api.deps.json
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\anham_inventory_api.runtimeconfig.json
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\anham_inventory_api.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\anham_inventory_api.pdb
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.AssemblyInfo.cs
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\staticwebassets\msbuild.anham_inventory_api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\staticwebassets\msbuild.build.anham_inventory_api.props
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.anham_inventory_api.props
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.anham_inventory_api.props
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\scopedcss\bundle\anham_inventory_api.styles.css
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.csproj.CopyComplete
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\refint\anham_inventory_api.dll
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.pdb
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.genruntimeconfig.cache
+C:\Users\Hp\Desktop\New folder (4)\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\ref\anham_inventory_api.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\appsettings.json
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\anham_inventory_api.exe
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\anham_inventory_api.deps.json
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\anham_inventory_api.runtimeconfig.json
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\anham_inventory_api.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\anham_inventory_api.pdb
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\staticwebassets\msbuild.anham_inventory_api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\staticwebassets\msbuild.build.anham_inventory_api.props
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.anham_inventory_api.props
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.anham_inventory_api.props
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\scopedcss\bundle\anham_inventory_api.styles.css
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.csproj.CopyComplete
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\refint\anham_inventory_api.dll
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.pdb
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Beckend Working\AnhamInventoryApp\anham-inventory-backend\anham-inventory-api\obj\Debug\net6.0\ref\anham_inventory_api.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\appsettings.Development.json
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\appsettings.json
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\anham_inventory_api.exe
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\anham_inventory_api.deps.json
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\anham_inventory_api.runtimeconfig.json
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\anham_inventory_api.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\anham_inventory_api.pdb
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\Humanizer.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.csproj.AssemblyReference.cache
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.GeneratedMSBuildEditorConfig.editorconfig
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.AssemblyInfoInputs.cache
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.AssemblyInfo.cs
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.csproj.CoreCompileInputs.cache
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.MvcApplicationPartsAssemblyInfo.cs
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.MvcApplicationPartsAssemblyInfo.cache
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\obj\Debug\net6.0\staticwebassets\msbuild.anham_inventory_api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\obj\Debug\net6.0\staticwebassets\msbuild.build.anham_inventory_api.props
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.anham_inventory_api.props
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.anham_inventory_api.props
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\obj\Debug\net6.0\staticwebassets.build.json
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\obj\Debug\net6.0\staticwebassets.development.json
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\obj\Debug\net6.0\scopedcss\bundle\anham_inventory_api.styles.css
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.csproj.CopyComplete
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\obj\Debug\net6.0\refint\anham_inventory_api.dll
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.pdb
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\obj\Debug\net6.0\anham_inventory_api.genruntimeconfig.cache
+D:\InventoryRepo\Anham-Inventory\anham-inventory-api\obj\Debug\net6.0\ref\anham_inventory_api.dll

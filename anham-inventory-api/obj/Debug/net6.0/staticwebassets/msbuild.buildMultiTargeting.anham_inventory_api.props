@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\anham_inventory_api.props" />
+</Project>
